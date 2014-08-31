@@ -24,7 +24,8 @@ up to 5:46 'Prototypical Inheritance'
 
 ## Preparation 2: Q&A
 [Please post 2 questions, remarks, or discussion items
-regarding to the literature and video's for this session.](https://gist.github.com/theotheu/49fb04dff54b6c3e7d58)
+regarding to the literature and video's for this session.]
+(../../../issues/1)
 
 ## Submission Form
 Please use the [this form](https://docs.google.com/forms/d/1WARmG2ku6lpWlFrVHXrAEkzCcVsyqVIDDB8TkQJ9kzM/viewform?usp=send_form)
@@ -154,7 +155,13 @@ up to 'More Control over Function Calls: call(), apply() and bind()
 up to 9:11 'prototypical inheritance'
 
 ## Preparation 2: Q&A
-[Please post 2 questions, remarks, or discussion items.](https://gist.github.com/theotheu/49fb04dff54b6c3e7d58)
+[Please post 2 questions, remarks, or discussion items.]
+(../../../issues/2)
+
+## Submission Form
+Please use the [this form]
+(https://docs.google.com/forms/d/17m0vWsmydtfmy8gDz3t_VQpL7aohmCOW_r3pi3tpa6o/viewform?usp=send_form)
+to submit the URLs to the answers of preparation 3, 4, 5 and 6.
 
 ## Preparation 3: 'input to number array'
 De functie toNumberArray() stopt alle
