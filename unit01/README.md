@@ -27,7 +27,7 @@ up to 5:46 'Prototypical Inheritance'
 regarding to the literature and video's for this session.](https://gist.github.com/theotheu/49fb04dff54b6c3e7d58)
 
 ## Submission Form
-Please use the [this form](https://docs.google.com/forms/d/1GeBr8ZQtcuU9VLZZAbHb3I_M5lj_6ghjIdpHWP3-I4w/viewform?usp=send_form)
+Please use the [this form](https://docs.google.com/forms/d/1WARmG2ku6lpWlFrVHXrAEkzCcVsyqVIDDB8TkQJ9kzM/viewform?usp=send_form)
 to submit the URLs to the answers of preparation 3, 4 and 5.
 
 ## Preparation 3: 'maximum'
