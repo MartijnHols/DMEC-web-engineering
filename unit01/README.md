@@ -33,7 +33,7 @@ to submit the URLs to the answers of preparation 3, 4 and 5.
 
 ## Preparation 3: 'maximum'
 A. **Java to JavaScript:** Write a function that takes an array of integers and returns
-its maximum. Do not use JavaScript built in functions. You will get plenty of change to do that.  
+its maximum. Do not use JavaScript built in functions. You will get plenty of chances to do that.  
 Below is a Java implementation of this function:
 ```java
 public int maximum(int[] list) {
